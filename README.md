@@ -1,8 +1,25 @@
 # Khulo
-Website for MArzia
+#Website for MArzia
 <!DOCTYPE html>
 <html>
 <head><style type="text/css">
+	.Khulo{
+		text-align: center;
+		text-align: center;
+
+		height: 100px;
+	
+		background-color: lightgrey;
+		font-style: initial;
+		font-size-adjust: initial;
+		font-size: 75px;
+		border-top-style: :dotted white;
+		border-top-style: dotted;
+		border-color: pink;
+		border-width: 19px;
+	/*	height:100px;*/
+		
+	}
 	.row{
 		height: 100px;
 		width: 100%;
@@ -52,12 +69,26 @@ Website for MArzia
 
 
 
+	
+
+	} .Footer{
+		height: 75px;
+		width: 100%;
+		background-color: lightblue;
+		float: bottom;
+		text-align: center;
+		font-size: 20px;
+
 	}
+	
+		
+	
 </style>
 
 	<title>Picks</title>
 </head>
 <body background="#E64F5E">
+	<div class="Khulo"> Khulo</div>
 	<div class="row"><table>
 		<tr><th><a href="www.facebook.com">Home</a></th>
 		<th><a href="">About</a></th>
@@ -67,6 +98,8 @@ Website for MArzia
 	</table>
 	</div>
 	<div class="show">	Welcome To Our shop</div>
+<div class="Footer">@Copyright Claim..okay to use</div>
+
 
 </body>
 </html>
