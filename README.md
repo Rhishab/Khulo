@@ -15,7 +15,7 @@
 		font-size: 75px;
 		border-top-style: :dotted white;
 		border-top-style: dotted;
-		border-color: pink;
+		border-color: rgb(255, 86, 145);
 		border-width: 19px;
 	/*	height:100px;*/
 		
